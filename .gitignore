@@ -145,7 +145,6 @@ venv.bak/
 *.iml
 
 # Visual Studio Code
-.vscode/
 
 # Visual Studio 2015/2017/2019/2022
 .vs/
@@ -162,3 +161,7 @@ venv.bak/
 mono_crash.*
 
 job_applications/
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
+branch_structure.json
